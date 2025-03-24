@@ -1,0 +1,24 @@
+{
+   "id": 1,
+   "nombre":"Televisor Smart TV 65''",
+   "descripcion":"Smart TV 65'' Samsung Crystal UHD DU8000 4K Tizen OS (2024)",
+   "precio":2800.00
+},
+{
+   "id": 3,
+   "nombre": "QUESO MOZARELLA",
+   "descripcion": "lacteo con cero grasa animal",
+   "precio": 20.0
+},
+{
+   "id": 2,
+   "nombre": "TALLARIN",
+   "descripcion": "alimento italiano con harina trigo integral",
+   "precio": 340.0
+},
+{
+   "id": 4,
+   "nombre": "PIZZA",
+   "descripcion": "alimento italiano",
+   "precio": 250.0
+}
